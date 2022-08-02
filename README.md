@@ -11,3 +11,12 @@ Low income indivudlas
 Empower and provide opportunities
 
 ### Repository created to migrate from SVN to Git.
+
+**A calculator that calculates simple interest given principal,** annual rate of interest and time period in years. 
+
+Input:<p> 
+&ensp; **p,** principal amount <p>
+&ensp; **t,** time period in years<p>
+&ensp; **r,** annual rate of interest<p>
+**Output <p>
+&ensp;simple interest** = p\*t*r 
